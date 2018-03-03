@@ -2,7 +2,14 @@
 
 A collection of scripts to improve your OS experience
 
+# Usage
+1. Read what the script does before executing it.
+2. Read the Warnings
+3. Adjust the script to your personal preference, if you are not me, you probably are using different programs
+4. Enjoy!
+
 # General Notes
+ 
 
 ## Linux
 
